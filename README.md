@@ -16,7 +16,7 @@ voorwoord
 **Wat kon beter?**
 
 - De logica zitten nu in de controllers en konden achteraf beter in de services class gezet moeten worden. Beter voor de onderhoud.
-- Het filter zonder gebruik te maken van een lange if/switch linq statement is niet geluk. Ik kon het helaas niet dinamisch maken, en heb geen externe package voor gebruikt. leg me aub uit hoe jullie dit hadden gedaan daar ben ik erg benieuwd naar.
+- Het filteren zonder gebruik te maken van een lange if/switch linq statement is niet geluk. Ik kon het helaas niet dinamisch implementeren, en heb geen externe package hier voor gebruikt. leg me aub uit hoe jullie dit hadden gedaan daar ben ik erg benieuwd naar.
 - Meer comments moeten maken door de code beter uit te leggen, wel bij de Api call controller gedaan.
 
 
